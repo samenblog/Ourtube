@@ -19,3 +19,4 @@
 - 15 - 🎬 [Solidworks-tutorial-wooden-toy-plane](https://github.com/samenblog/Ourtube/tree/main/videos/Solidworks-tutorial-wooden-toy-plane)
 - 16 - 🎬 [Step-1-Design-Ship-｜-SolidWorks-tutorial.](https://github.com/samenblog/Ourtube/tree/main/videos/Step-1-Design-Ship-%EF%BD%9C-SolidWorks-tutorial.)
 - 17 - 🎬 [TRUCK-TIPPER-DESIGN-IN-SOLIDWORKS-｜-TAMILCADTUTORIALS-｜-ADVANCED-SOLIDWORKS-TUTORIAL-IN-TAMIL｜](https://github.com/samenblog/Ourtube/tree/main/videos/TRUCK-TIPPER-DESIGN-IN-SOLIDWORKS-%EF%BD%9C-TAMILCADTUTORIALS-%EF%BD%9C-ADVANCED-SOLIDWORKS-TUTORIAL-IN-TAMIL%EF%BD%9C)
+- 18 - 🎬 [Unbelievable-DIY-Pistol-22-Cal-From-Scrap-Metal](https://github.com/samenblog/Ourtube/tree/main/videos/Unbelievable-DIY-Pistol-22-Cal-From-Scrap-Metal)
