@@ -10,3 +10,4 @@
 - 6 - 🎬 [Jeep-Design-tutorial-in-SOLIDWORKS-｜｜-3D-Modeling-and-Sketch-｜｜-SOLIDWORKS-CAD-Practice-｜｜-COGNITION](https://github.com/samenblog/Ourtube/tree/main/videos/Jeep-Design-tutorial-in-SOLIDWORKS-%EF%BD%9C%EF%BD%9C-3D-Modeling-and-Sketch-%EF%BD%9C%EF%BD%9C-SOLIDWORKS-CAD-Practice-%EF%BD%9C%EF%BD%9C-COGNITION)
 - 7 - 🎬 [Make-A-Single-Transistor-Mist-Maker-Circuit-｜-Humidifier](https://github.com/samenblog/Ourtube/tree/main/videos/Make-A-Single-Transistor-Mist-Maker-Circuit-%EF%BD%9C-Humidifier)
 - 8 - 🎬 [Solidworks-tutorial-wooden-toy-plane](https://github.com/samenblog/Ourtube/tree/main/videos/Solidworks-tutorial-wooden-toy-plane)
+- 9 - 🎬 [TRUCK-TIPPER-DESIGN-IN-SOLIDWORKS-｜-TAMILCADTUTORIALS-｜-ADVANCED-SOLIDWORKS-TUTORIAL-IN-TAMIL｜](https://github.com/samenblog/Ourtube/tree/main/videos/TRUCK-TIPPER-DESIGN-IN-SOLIDWORKS-%EF%BD%9C-TAMILCADTUTORIALS-%EF%BD%9C-ADVANCED-SOLIDWORKS-TUTORIAL-IN-TAMIL%EF%BD%9C)
